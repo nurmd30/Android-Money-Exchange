@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579794284844",
+    "firebase_url": "https://exchange-money-30e6a.firebaseio.com",
+    "project_id": "exchange-money-30e6a",
+    "storage_bucket": "exchange-money-30e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579794284844:android:3b75586e04df9a19b3bc89",
+        "android_client_info": {
+          "package_name": "com.example.exchangemoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579794284844-qlahidjimh4dbm3n0hp10gf0i6sr1e7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exchangemoney",
+            "certificate_hash": "d886b4c9e20a12660319323de405c2be81a6d4ca"
+          }
+        },
+        {
+          "client_id": "579794284844-18r0t7akki3cjer99dk7id6ka0klu7mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm3RBDbXut-6QtwRgge_LoWmX-REyXWFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579794284844-18r0t7akki3cjer99dk7id6ka0klu7mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
